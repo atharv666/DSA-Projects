@@ -1,1 +1,1 @@
-Project using stack and queue concepts- All expression converter & evaluator and Hospital Patient Waitlist and management
+DSA Projecct 'All Purpose Expression Convertor & Evaluator' using Stack concept. Just enter an expression be it prefix, infix or postfix and have it converted to any of the other counter parts and also evaluated. 
